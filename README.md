@@ -96,7 +96,7 @@ Plan: 5 to add, 0 to change, 0 to destroy.
 ...
 ```
 
-You can check full plan log here : [terrafom_plan.md](terrafom_plan.md)
+You can check full plan log here : [terraform_plan.md](terraform_plan.md)
 
 And apply, also goes fine, creating 4 (four)! workspaces with identical names : 
 
