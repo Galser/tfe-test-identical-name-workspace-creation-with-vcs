@@ -21,6 +21,8 @@ While we have a screenshot :
 
 ![identically named_workspaces screenshot](identically_named_workspaces.png)
 
+One of our engineers suggested (*thank you Top!*) - that this can be possible in a situation when workspaces have VCS settings block defined in resource  `tfe_workpace` . 
+
 # Test
 
 Providing the code in [main.tf](main.tf) include the following piece for workspaces creation : 
